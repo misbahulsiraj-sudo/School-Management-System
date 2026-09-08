@@ -1,0 +1,11 @@
+[
+    {
+        "id": "1234",
+        "name": "Misbahul Siraj",
+        "age": "19",
+        "class": "12",
+        "marks": {
+            "Computer Science ": 90.0
+        }
+    }
+]
